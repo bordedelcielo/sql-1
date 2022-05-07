@@ -1,2 +1,2 @@
-# week4_day1_SQL_homework
+# Week 4, Day 1
 My first ever SQL queries! 😃
